@@ -36,7 +36,7 @@ https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5
 
 ## 23/04 Aula 6 - Introdução ao Power BI.
 
-
+https://github.com/773012/Inform-tica/commit/f8599464b9b140a7e8f5508abfd2a9c4f591d7c6
 
 <img width="1314" height="735" alt="image" src="https://github.com/user-attachments/assets/f385f55a-c955-4311-a169-5ed7f5329c28" />
 
