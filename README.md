@@ -32,3 +32,11 @@ https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQBFF4
 https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5Za1w88Qbl5w3Wlilg-AeprcAHVsz6AsM-ktV2PFPU?e=OkhuPn
 
 <img width="873" height="284" alt="image" src="https://github.com/user-attachments/assets/fb75c3d2-3d83-4344-b7ec-5b1970a0fddb" />
+
+
+## 23/04 Aula 6 - Introdução ao Power BI.
+
+
+
+<img width="1314" height="735" alt="image" src="https://github.com/user-attachments/assets/f385f55a-c955-4311-a169-5ed7f5329c28" />
+
