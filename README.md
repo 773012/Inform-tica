@@ -43,7 +43,7 @@ https://github.com/773012/Inform-tica/commit/f8599464b9b140a7e8f5508abfd2a9c4f59
 
 ## 30/04 Aula 7 - Tratamento de dados abertos da população indígenas dos municípios de São Paulo.
 
-
+https://github.com/773012/Inform-tica/blob/main/Aula7_30_04_popula%C3%A7%C3%A3o%20ind%C3%ADgena.pbix
 
 <img width="1412" height="760" alt="image" src="https://github.com/user-attachments/assets/2f343d00-2108-4f04-93b4-588475d6685f" />
 
