@@ -51,6 +51,8 @@ https://github.com/773012/Inform-tica/blob/main/Aula7_30_04_popula%C3%A7%C3%A3o%
 
 ## 07/05 Aula 8 - Modelagem de dados e fórmulas DAX.
 
+https://github.com/773012/Inform-tica/upload/main
+
 <img width="1310" height="740" alt="image" src="https://github.com/user-attachments/assets/976aed2c-1156-44f5-a4e4-5d92e1badd68" />
 
 
