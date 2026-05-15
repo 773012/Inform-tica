@@ -63,3 +63,6 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_c
 
 <img width="686" height="422" alt="image" src="https://github.com/user-attachments/assets/a2a63267-c3be-4eb2-8a42-9b3f239df7a0" />
 
+  ### Regressão Linear Python.
+  <img width="913" height="547" alt="image" src="https://github.com/user-attachments/assets/d715b7e6-19f8-4955-844b-46ec3dd1933c" />
+
