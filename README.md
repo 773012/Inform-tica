@@ -57,7 +57,7 @@ https://github.com/773012/Inform-tica/upload/main
 
 
 
-## 14/05 Aula 9 - Regressão Linear.
+## 14/05 Aula 9 - Regressão Linear Icecream.
 
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/Ice%20Cream%20Sales%20and%20Temperature%201.xlsx?d=w838710ce1e9249fa996325b3d0e08e0a&csf=1&web=1&e=UfcCcC
 
@@ -65,4 +65,13 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_c
 
   ### Regressão Linear Python.
   <img width="913" height="547" alt="image" src="https://github.com/user-attachments/assets/d715b7e6-19f8-4955-844b-46ec3dd1933c" />
+
+
+
+
+## 15/05 Aula 10 - Regressão Linear Redwine.
+
+https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/winequality-red.xlsx?d=w319b73d9188b495b90ed60976c7e7b46&csf=1&web=1&e=AbTSYe
+
+<img width="1262" height="547" alt="image" src="https://github.com/user-attachments/assets/34ac0ce9-2768-4f8b-be1f-33972357c1a2" />
 
