@@ -56,3 +56,10 @@ https://github.com/773012/Inform-tica/upload/main
 <img width="1310" height="740" alt="image" src="https://github.com/user-attachments/assets/976aed2c-1156-44f5-a4e4-5d92e1badd68" />
 
 
+
+## 14/05 Aula 9 - Regressão Linear.
+
+https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/Ice%20Cream%20Sales%20and%20Temperature%201.xlsx?d=w838710ce1e9249fa996325b3d0e08e0a&csf=1&web=1&e=UfcCcC
+
+<img width="686" height="422" alt="image" src="https://github.com/user-attachments/assets/a2a63267-c3be-4eb2-8a42-9b3f239df7a0" />
+
