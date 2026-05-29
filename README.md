@@ -68,10 +68,14 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_c
 
 
 
-
 ## 15/05 Aula 10 - Regressão Linear Redwine.
 
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_cps_sp_gov_br/Documents/winequality-red.xlsx?d=w319b73d9188b495b90ed60976c7e7b46&csf=1&web=1&e=AbTSYe
 
 <img width="1262" height="547" alt="image" src="https://github.com/user-attachments/assets/34ac0ce9-2768-4f8b-be1f-33972357c1a2" />
 
+
+
+## 28/05 Avaliação 
+
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/44132929-2572-4008-af54-777b7c805a93" />
