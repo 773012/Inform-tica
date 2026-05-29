@@ -33,6 +33,9 @@ https://logmed-my.sharepoint.com/:x:/g/personal/fernanda_caldi_logmed_net/IQAgd5
 
 <img width="873" height="284" alt="image" src="https://github.com/user-attachments/assets/fb75c3d2-3d83-4344-b7ec-5b1970a0fddb" />
 
+## 16/04 Certificado de curso Aprenda Mais: Python Fundamental 1.
+
+![Uploading image.png…]()
 
 ## 23/04 Aula 6 - Introdução ao Power BI.
 
