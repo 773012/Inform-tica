@@ -77,6 +77,8 @@ https://centropaulasouza-my.sharepoint.com/:x:/r/personal/isabella_leite_aluno_c
 
 <img width="1262" height="547" alt="image" src="https://github.com/user-attachments/assets/34ac0ce9-2768-4f8b-be1f-33972357c1a2" />
 
+## 22/05 Atividade 3 - Construção do dashboard a partir dos dados ice-cream e consumo de cerveja 
+<img width="1085" height="707" alt="image" src="https://github.com/user-attachments/assets/0bb47b02-d685-43be-8644-f202c8c44215" />
 
 
 ## 28/05 Avaliação 
