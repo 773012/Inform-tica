@@ -82,6 +82,12 @@ https://1drv.ms/x/c/3ad2251d0bbf7fa9/IQAGYyj0oPP9Q4erkcJNfUcaAcDBvLaY4tHU2980c3E
 <img width="1085" height="707" alt="image" src="https://github.com/user-attachments/assets/0bb47b02-d685-43be-8644-f202c8c44215" />
 
 
+
+## Curso Enad 25h- Aplicação do Power BI para Aprimoramento da Gestão
+
+<img width="1828" height="933" alt="image" src="https://github.com/user-attachments/assets/dc345ca4-20bf-43c9-9ba6-49b5bdd068ec" />
+
+
 ## 28/05 Avaliação 
 
 <img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/44132929-2572-4008-af54-777b7c805a93" />
